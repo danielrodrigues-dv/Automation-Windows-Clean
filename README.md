@@ -62,7 +62,6 @@ Tabela de conteúdos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Python](https://www.python.org/downloads/), [Pyautogui](https://pypi.org/project/PyAutoGUI/) e além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
-<p>A resolução do seu monitor tem que está obrigatoriamente em (1920 x 1080).</p>
 
 ### 🧭 Rodando a aplicação
 
