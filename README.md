@@ -35,14 +35,14 @@ Tabela de conteúdos
 
 ## 💻 Sobre o projeto
 
-<p>Este projeto consiste em uma automação simples que realiza a cópia de arquivos da primeira pasta e os transfere para a segunda pasta. A execução eficiente dessa tarefa permite uma gestão mais ágil e organizada dos arquivos, otimizando o fluxo de trabalho.</p>
+<p>A automação Basic Clean System é uma ferramenta de limpeza automatizada projetada para otimizar o desempenho do seu sistema, removendo arquivos temporários desnecessários das pastas 'Temp' e '%temp%'. Esta aplicação foi desenvolvida com o objetivo de proporcionar uma experiência de usuário mais fluida e garantir a eficiência do seu computador, eliminando rapidamente os dados temporários acumulados.</p>
 
 
 ---
 
 ## ⚙️ Funcionalidades
 
-- :white_check_mark: Os arquivos são copiados e movidos de maneira automática, mantendo a ordem e organização desejadas.
+- :white_check_mark: O software realiza a limpeza das pastas 'Temp' e '%temp%' de forma automatizada, poupando o usuário da tarefa manual.
 
  
 ---
@@ -69,7 +69,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/danielrodrigues-dv/Automation-file.git
+$ git clone https://github.com/danielrodrigues-dv/Automation-Windows-Clean.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd application
